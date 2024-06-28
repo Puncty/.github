@@ -13,3 +13,7 @@ It's currently android-only.
 ## About
 
 This project was created for a [Seminarkurs](https://de.wikipedia.org/wiki/Seminarkurs) at the [TG Ravensburg](https://www.gsravensburg.de/schularten/technisches-gymnasium-3-jaehrig/).
+
+## Inactive
+
+As this project is already over, the organization has been archived. Though forking is welcomed and the contributors are happy to help with issues.
